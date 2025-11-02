@@ -37,8 +37,6 @@ A visual representation of the model's learning curve:
 To run this code locally, ensure you have the following packages installed:
 
 ```bash
-pip install tensorflow matplotlib numpy
-
 ## ⚙️ How to Run
 
 Follow these steps to clone the repository and execute the main script.
