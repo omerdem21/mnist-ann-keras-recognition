@@ -38,3 +38,27 @@ To run this code locally, ensure you have the following packages installed:
 
 ```bash
 pip install tensorflow matplotlib numpy
+
+## ⚙️ How to Run
+
+Follow these steps to clone the repository and execute the main script.
+
+1.  **Clone the repository:**
+    ```bash
+    git clone [https://github.com/omerdem21/mnist-ann-keras-recognition.git](https://github.com/omerdem21/mnist-ann-keras-recognition.git)
+    ```
+
+2.  **Navigate to the project directory:**
+    ```bash
+    cd mnist-ann-keras-recognition
+    ```
+
+3.  **Install dependencies** (if not already done):
+    ```bash
+    pip install tensorflow matplotlib numpy
+    ```
+
+4.  **Run the main Python script:**
+    ```bash
+    python ann.py
+    ```
